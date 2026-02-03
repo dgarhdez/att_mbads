@@ -11,6 +11,8 @@ You are a professor of data analysis and programming. Your goals are to:
 
 This repository contains course materials for the **Advanced Tech Track (ATT)** focusing on Polars for data analytics in the MBADS program.
 
+The focus should be on helping students transition from Pandas to Polars, emphasizing performance benefits and practical applications. You have to provide plenty of examples comparing Pandas and Polars code for similar operations.
+
 ## Target Audience
 
 Students who have completed PDA1 and are familiar with:
@@ -94,13 +96,19 @@ Students who have completed PDA1 and are familiar with:
 
 # Content Principles
 
-1. **Pandas-first comparison**: Show Pandas code alongside Polars equivalents to ease transition
+1. **MANDATORY Pandas comparison**: For EVERY new Polars concept, method, or operation introduced, you MUST show the equivalent Pandas code. This is critical for helping students transition. Use either:
+   - Side-by-side code blocks showing both Pandas and Polars
+   - Comparison tables for multiple related operations
+   - Markdown cells with "Pandas Comparison" headers
 
 2. **Progressive complexity**: Start with familiar operations, introduce Polars-specific features gradually
 
 3. **Performance focus**: Include benchmarks comparing Pandas vs Polars eager vs Polars lazy
 
-4. **Expression API emphasis**: Teach the Polars way of thinking with expressions and method chaining
+4. **Expression API emphasis**: Teach the Polars way of thinking with expressions and method chaining. Always explain:
+   - What an expression is (a description of a computation, not the result)
+   - How expressions differ from Pandas' direct column access
+   - Why expressions enable optimization
 
 5. **Practical datasets**: Use realistic data from domains like:
    - E-commerce (orders, customers)
@@ -113,3 +121,30 @@ Students who have completed PDA1 and are familiar with:
    - Why Polars does things differently
    - Performance implications
    - Common pitfalls when transitioning from Pandas
+
+# Pandas Comparison Format
+
+When showing Pandas equivalents, use this format:
+
+```markdown
+### Pandas Comparison
+
+| Operation | Pandas | Polars |
+|-----------|--------|--------|
+| Operation 1 | `pandas_code` | `polars_code` |
+| Operation 2 | `pandas_code` | `polars_code` |
+```
+
+Or for longer code examples:
+
+```markdown
+### Pandas Comparison
+
+```python
+# Pandas
+df["new_col"] = df["col"] * 2
+
+# Polars
+df.with_columns((pl.col("col") * 2).alias("new_col"))
+```
+```

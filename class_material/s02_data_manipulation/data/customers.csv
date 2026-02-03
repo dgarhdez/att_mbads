@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,city,age,membership_tier,total_purchases,registration_date
+1,Amelia,Williams,amelia.williams1@email.com,San Diego,43,Silver,18,2023-10-18
+2,Charlotte,Williams,charlotte.williams2@email.com,Portland,29,Silver,21,2020-08-01
+3,Henry,Johnson,henry.johnson3@email.com,San Jose,67,Silver,2,2021-09-23
+4,Mason,Rodriguez,mason.rodriguez4@email.com,Dallas,66,Silver,2,2023-10-28
+5,Isabella,Miller,isabella.miller5@email.com,Phoenix,24,Silver,24,2021-06-18
+6,Sophia,Jones,sophia.jones6@email.com,San Antonio,72,Silver,18,2020-08-06
+7,Benjamin,Miller,benjamin.miller7@email.com,Portland,34,Platinum,28,2023-02-12
+8,Henry,Miller,henry.miller8@email.com,Atlanta,65,Gold,44,2024-09-07
+9,James,Rodriguez,james.rodriguez9@email.com,Austin,46,Bronze,4,2024-03-18
+10,Olivia,Smith,olivia.smith10@email.com,Denver,59,Gold,27,2022-07-26
+11,Ava,Miller,ava.miller11@email.com,San Jose,23,Silver,39,2021-04-28
+12,Evelyn,Davis,evelyn.davis12@email.com,Minneapolis,57,Gold,13,2022-07-19
+13,Lucas,Smith,lucas.smith13@email.com,Chicago,28,Bronze,13,2024-12-04
+14,Noah,Miller,noah.miller14@email.com,Dallas,40,Silver,38,2022-12-04
+15,Ava,Jones,ava.jones15@email.com,San Diego,46,Silver,17,2022-06-20
+16,Emma,Jones,emma.jones16@email.com,Los Angeles,48,Silver,12,2022-03-07
+17,James,Johnson,james.johnson17@email.com,Atlanta,71,Silver,25,2024-05-29
+18,Evelyn,Williams,evelyn.williams18@email.com,Boston,75,Silver,37,2020-10-12
+19,Liam,Brown,liam.brown19@email.com,Philadelphia,48,Platinum,21,2024-05-08
+20,Lucas,Johnson,lucas.johnson20@email.com,Phoenix,41,Bronze,30,2021-01-13
+21,Olivia,Williams,olivia.williams21@email.com,San Diego,18,Bronze,49,2021-11-30
+22,Amelia,Rodriguez,amelia.rodriguez22@email.com,Seattle,68,Silver,23,2021-04-24
+23,Ava,Jones,ava.jones23@email.com,Philadelphia,39,Gold,24,2020-02-10
+24,Emma,Martinez,emma.martinez24@email.com,Minneapolis,68,Gold,0,2024-11-27
+25,Mia,Davis,mia.davis25@email.com,Minneapolis,31,Silver,38,2020-04-04
+26,Sophia,Smith,sophia.smith26@email.com,San Antonio,75,Platinum,4,2024-08-08
+27,Mason,Miller,mason.miller27@email.com,Austin,59,Bronze,37,2022-11-21
+28,Mia,Miller,mia.miller28@email.com,Minneapolis,35,Silver,43,2023-05-18
+29,Amelia,Davis,amelia.davis29@email.com,New York,65,Silver,2,2022-05-22
+30,Liam,Smith,liam.smith30@email.com,Miami,35,Platinum,6,2024-08-30
+31,Isabella,Brown,isabella.brown31@email.com,San Diego,73,Silver,3,2024-05-24
+32,Isabella,Martinez,isabella.martinez32@email.com,Chicago,64,Gold,31,2021-09-24
+33,William,Brown,william.brown33@email.com,Denver,53,Silver,42,2024-01-31
+34,Charlotte,Brown,charlotte.brown34@email.com,Atlanta,62,Silver,11,2024-11-26
+35,Olivia,Garcia,olivia.garcia35@email.com,Miami,63,Silver,19,2024-08-31
+36,Emma,Garcia,emma.garcia36@email.com,Dallas,41,Gold,27,2022-05-28
+37,Noah,Rodriguez,noah.rodriguez37@email.com,Phoenix,36,Gold,46,2022-10-19
+38,William,Johnson,william.johnson38@email.com,Dallas,28,Silver,23,2024-12-12
+39,Mason,Johnson,mason.johnson39@email.com,Dallas,24,Gold,38,2022-10-27
+40,Harper,Davis,harper.davis40@email.com,Philadelphia,44,Bronze,16,2023-11-06
+41,Evelyn,Williams,evelyn.williams41@email.com,Chicago,58,Bronze,13,2024-01-01
+42,Mason,Martinez,mason.martinez42@email.com,Atlanta,75,Gold,10,2020-09-08
+43,Mia,Martinez,mia.martinez43@email.com,New York,18,Silver,7,2021-03-09
+44,Ava,Smith,ava.smith44@email.com,San Jose,63,Bronze,32,2021-06-13
+45,James,Miller,james.miller45@email.com,Portland,68,Silver,23,2024-08-26
+46,Isabella,Johnson,isabella.johnson46@email.com,Portland,59,Silver,24,2020-01-15
+47,William,Garcia,william.garcia47@email.com,Boston,53,Silver,14,2023-03-27
+48,Olivia,Johnson,olivia.johnson48@email.com,Denver,61,Gold,19,2022-01-28
+49,Amelia,Miller,amelia.miller49@email.com,Miami,68,Gold,28,2024-03-19
+50,Charlotte,Garcia,charlotte.garcia50@email.com,Miami,64,Silver,25,2024-10-29
+51,Isabella,Davis,isabella.davis51@email.com,Denver,20,Silver,8,2020-01-18
+52,Harper,Garcia,harper.garcia52@email.com,Phoenix,55,Silver,21,2024-12-08
+53,Mia,Williams,mia.williams53@email.com,Chicago,49,Bronze,18,2023-03-19
+54,Alexander,Rodriguez,alexander.rodriguez54@email.com,Atlanta,49,Silver,37,2023-02-17
+55,Harper,Davis,harper.davis55@email.com,Phoenix,47,Bronze,47,2021-07-18
+56,Ava,Williams,ava.williams56@email.com,New York,45,Bronze,44,2023-02-08
+57,James,Smith,james.smith57@email.com,Boston,74,Silver,38,2024-08-20
+58,Henry,Davis,henry.davis58@email.com,San Diego,59,Silver,50,2023-11-05
+59,Isabella,Smith,isabella.smith59@email.com,Los Angeles,42,Gold,8,2021-09-17
+60,Benjamin,Miller,benjamin.miller60@email.com,San Antonio,55,Bronze,10,2024-06-26
+61,Olivia,Jones,olivia.jones61@email.com,San Diego,21,Bronze,34,2023-11-27
+62,Sophia,Martinez,sophia.martinez62@email.com,San Diego,33,Gold,5,2020-08-10
+63,Noah,Rodriguez,noah.rodriguez63@email.com,Dallas,60,Bronze,22,2021-05-30
+64,Harper,Rodriguez,harper.rodriguez64@email.com,Austin,39,Silver,20,2022-01-30
+65,Ava,Jones,ava.jones65@email.com,Seattle,27,Silver,6,2021-12-04
+66,Olivia,Jones,olivia.jones66@email.com,San Antonio,44,Silver,16,2021-12-10
+67,Amelia,Rodriguez,amelia.rodriguez67@email.com,San Antonio,38,Bronze,28,2023-03-17
+68,Henry,Brown,henry.brown68@email.com,Atlanta,47,Gold,5,2023-09-06
+69,Mason,Garcia,mason.garcia69@email.com,Seattle,43,Platinum,39,2022-06-03
+70,Mason,Brown,mason.brown70@email.com,Minneapolis,63,Gold,22,2023-12-26
+71,Henry,Miller,henry.miller71@email.com,Dallas,22,Silver,34,2020-10-15
+72,Mia,Miller,mia.miller72@email.com,Los Angeles,62,Bronze,39,2024-03-15
+73,Evelyn,Johnson,evelyn.johnson73@email.com,Boston,26,Bronze,27,2023-05-19
+74,William,Davis,william.davis74@email.com,Boston,63,Platinum,37,2021-02-05
+75,Charlotte,Rodriguez,charlotte.rodriguez75@email.com,San Jose,26,Silver,23,2024-09-09
+76,Noah,Davis,noah.davis76@email.com,Portland,30,Silver,36,2024-01-28
+77,Alexander,Smith,alexander.smith77@email.com,Chicago,70,Gold,8,2023-09-03
+78,Lucas,Johnson,lucas.johnson78@email.com,Los Angeles,61,Gold,39,2021-10-02
+79,Ava,Smith,ava.smith79@email.com,San Antonio,52,Platinum,29,2020-11-21
+80,Noah,Williams,noah.williams80@email.com,Houston,67,Gold,23,2023-07-28
+81,Olivia,Martinez,olivia.martinez81@email.com,Los Angeles,58,Bronze,22,2024-02-06
+82,Charlotte,Williams,charlotte.williams82@email.com,San Jose,70,Platinum,17,2022-05-04
+83,Ethan,Williams,ethan.williams83@email.com,Los Angeles,24,Bronze,27,2022-04-15
+84,Sophia,Brown,sophia.brown84@email.com,San Antonio,61,Bronze,33,2020-11-14
+85,William,Brown,william.brown85@email.com,Phoenix,42,Bronze,15,2023-10-11
+86,Henry,Johnson,henry.johnson86@email.com,Dallas,18,Bronze,41,2022-10-09
+87,Mia,Garcia,mia.garcia87@email.com,Atlanta,71,Bronze,43,2021-07-14
+88,Ethan,Smith,ethan.smith88@email.com,Phoenix,74,Bronze,19,2021-01-23
+89,James,Smith,james.smith89@email.com,Miami,35,Bronze,48,2024-03-07
+90,Alexander,Brown,alexander.brown90@email.com,San Diego,29,Silver,37,2023-08-03
+91,Evelyn,Martinez,evelyn.martinez91@email.com,Portland,19,Bronze,17,2020-01-09
+92,William,Brown,william.brown92@email.com,Chicago,19,Platinum,0,2022-08-16
+93,Lucas,Johnson,lucas.johnson93@email.com,Minneapolis,29,Bronze,21,2023-12-09
+94,Mason,Williams,mason.williams94@email.com,Miami,48,Silver,14,2022-09-29
+95,Benjamin,Garcia,benjamin.garcia95@email.com,Austin,34,Silver,4,2022-06-15
+96,Ava,Davis,ava.davis96@email.com,Seattle,48,Platinum,21,2021-10-18
+97,William,Rodriguez,william.rodriguez97@email.com,Houston,36,Silver,6,2021-01-03
+98,Charlotte,Miller,charlotte.miller98@email.com,Boston,24,Bronze,43,2021-05-20
+99,Evelyn,Brown,evelyn.brown99@email.com,Phoenix,56,Bronze,29,2023-12-20
+100,Liam,Williams,liam.williams100@email.com,Chicago,40,Bronze,41,2020-07-20
+101,Sophia,Jones,sophia.jones101@email.com,San Diego,58,Bronze,3,2022-06-13
+102,Ethan,Davis,ethan.davis102@email.com,Minneapolis,57,Silver,21,2022-10-29
+103,Ethan,Jones,ethan.jones103@email.com,Portland,48,Bronze,45,2024-12-16
+104,Evelyn,Johnson,evelyn.johnson104@email.com,Phoenix,56,Gold,2,2021-03-28
+105,Amelia,Johnson,amelia.johnson105@email.com,Houston,27,Platinum,22,2023-05-12
+106,Mason,Martinez,mason.martinez106@email.com,Seattle,38,Silver,5,2021-08-12
+107,Ethan,Johnson,ethan.johnson107@email.com,Chicago,44,Platinum,11,2020-12-29
+108,Liam,Miller,liam.miller108@email.com,Austin,56,Bronze,0,2024-01-08
+109,Isabella,Jones,isabella.jones109@email.com,San Antonio,43,Bronze,13,2022-03-14
+110,Isabella,Jones,isabella.jones110@email.com,Dallas,31,Gold,47,2024-05-12
+111,Evelyn,Miller,evelyn.miller111@email.com,Chicago,34,Bronze,44,2024-04-05
+112,Emma,Smith,emma.smith112@email.com,Portland,58,Bronze,28,2022-03-26
+113,Harper,Brown,harper.brown113@email.com,Austin,28,Silver,3,2024-10-01
+114,Harper,Davis,harper.davis114@email.com,Minneapolis,38,Silver,6,2020-04-25
+115,Alexander,Brown,alexander.brown115@email.com,San Antonio,52,Gold,13,2020-03-21
+116,Emma,Smith,emma.smith116@email.com,Los Angeles,75,Bronze,27,2021-03-09
+117,Ava,Garcia,ava.garcia117@email.com,Atlanta,64,Gold,41,2022-09-01
+118,Amelia,Garcia,amelia.garcia118@email.com,San Jose,43,Bronze,26,2020-09-03
+119,Lucas,Williams,lucas.williams119@email.com,Minneapolis,60,Bronze,29,2023-09-01
+120,Emma,Brown,emma.brown120@email.com,San Jose,35,Gold,40,2021-03-19
+121,Mason,Williams,mason.williams121@email.com,San Jose,70,Bronze,41,2024-06-03
+122,Benjamin,Rodriguez,benjamin.rodriguez122@email.com,San Jose,70,Gold,21,2021-08-30
+123,Benjamin,Brown,benjamin.brown123@email.com,Austin,25,Silver,31,2021-02-21
+124,Mia,Johnson,mia.johnson124@email.com,Atlanta,41,Bronze,46,2024-09-22
+125,Lucas,Miller,lucas.miller125@email.com,Denver,40,Gold,36,2022-01-09
+126,Evelyn,Miller,evelyn.miller126@email.com,Austin,68,Silver,2,2024-05-27
+127,Mason,Brown,mason.brown127@email.com,Portland,65,Bronze,11,2023-03-12
+128,Charlotte,Jones,charlotte.jones128@email.com,Atlanta,34,Silver,5,2020-01-18
+129,Evelyn,Williams,evelyn.williams129@email.com,Philadelphia,74,Bronze,5,2024-02-08
+130,Isabella,Garcia,isabella.garcia130@email.com,Seattle,48,Platinum,40,2022-01-24
+131,Sophia,Davis,sophia.davis131@email.com,Phoenix,32,Silver,26,2020-04-02
+132,Isabella,Johnson,isabella.johnson132@email.com,San Jose,27,Platinum,19,2021-03-14
+133,Liam,Williams,liam.williams133@email.com,Miami,20,Silver,14,2024-06-06
+134,Lucas,Williams,lucas.williams134@email.com,Philadelphia,55,Silver,7,2020-02-03
+135,Alexander,Brown,alexander.brown135@email.com,Seattle,58,Gold,19,2023-10-06
+136,Sophia,Martinez,sophia.martinez136@email.com,Phoenix,28,Silver,23,2020-03-08
+137,Olivia,Jones,olivia.jones137@email.com,Denver,75,Bronze,16,2020-02-22
+138,Amelia,Miller,amelia.miller138@email.com,Austin,30,Silver,34,2022-08-16
+139,Henry,Brown,henry.brown139@email.com,San Jose,66,Silver,29,2023-11-08
+140,Alexander,Smith,alexander.smith140@email.com,Los Angeles,46,Silver,19,2021-09-13
+141,Charlotte,Miller,charlotte.miller141@email.com,Denver,42,Silver,44,2023-02-24
+142,Mason,Miller,mason.miller142@email.com,New York,61,Platinum,40,2021-09-25
+143,Sophia,Rodriguez,sophia.rodriguez143@email.com,Boston,50,Bronze,43,2024-03-02
+144,James,Smith,james.smith144@email.com,Atlanta,38,Bronze,11,2021-11-15
+145,Benjamin,Williams,benjamin.williams145@email.com,Miami,68,Bronze,24,2023-03-04
+146,Ava,Brown,ava.brown146@email.com,Phoenix,38,Silver,10,2022-09-26
+147,Mason,Jones,mason.jones147@email.com,Boston,52,Gold,38,2023-12-28
+148,Ethan,Davis,ethan.davis148@email.com,Los Angeles,64,Silver,29,2020-12-28
+149,Sophia,Brown,sophia.brown149@email.com,Dallas,58,Bronze,27,2022-05-02
+150,Charlotte,Johnson,charlotte.johnson150@email.com,Los Angeles,40,Bronze,19,2023-05-12
+151,Charlotte,Johnson,charlotte.johnson151@email.com,Minneapolis,21,Platinum,32,2022-03-21
+152,Ethan,Rodriguez,ethan.rodriguez152@email.com,Minneapolis,42,Gold,47,2022-11-30
+153,Harper,Davis,harper.davis153@email.com,Philadelphia,35,Platinum,38,2021-06-05
+154,Emma,Brown,emma.brown154@email.com,Seattle,23,Silver,27,2023-06-27
+155,Mia,Miller,mia.miller155@email.com,Chicago,32,Silver,17,2020-04-06
+156,Henry,Rodriguez,henry.rodriguez156@email.com,San Diego,62,Silver,6,2023-01-20
+157,Mason,Rodriguez,mason.rodriguez157@email.com,New York,25,Bronze,47,2021-01-25
+158,Isabella,Davis,isabella.davis158@email.com,Boston,55,Bronze,8,2023-08-14
+159,Sophia,Davis,sophia.davis159@email.com,Miami,56,Platinum,15,2023-07-17
+160,Alexander,Rodriguez,alexander.rodriguez160@email.com,New York,23,Gold,10,2020-11-23
+161,Emma,Johnson,emma.johnson161@email.com,Denver,31,Bronze,48,2022-01-21
+162,Ethan,Smith,ethan.smith162@email.com,New York,58,Bronze,37,2020-07-22
+163,James,Williams,james.williams163@email.com,San Antonio,22,Platinum,15,2024-07-24
+164,Charlotte,Brown,charlotte.brown164@email.com,Chicago,36,Gold,37,2023-02-07
+165,Ethan,Johnson,ethan.johnson165@email.com,Philadelphia,49,Bronze,15,2020-09-07
+166,Henry,Martinez,henry.martinez166@email.com,Boston,48,Bronze,7,2021-01-09
+167,Alexander,Garcia,alexander.garcia167@email.com,New York,75,Gold,15,2020-07-19
+168,Amelia,Davis,amelia.davis168@email.com,Austin,43,Platinum,44,2023-11-12
+169,Emma,Smith,emma.smith169@email.com,New York,62,Bronze,37,2023-08-01
+170,Olivia,Davis,olivia.davis170@email.com,Denver,73,Bronze,13,2024-08-08
+171,Ethan,Jones,ethan.jones171@email.com,San Jose,51,Bronze,13,2024-05-24
+172,Harper,Davis,harper.davis172@email.com,Houston,41,Platinum,20,2021-08-06
+173,Lucas,Jones,lucas.jones173@email.com,Boston,57,Bronze,29,2023-07-06
+174,Liam,Rodriguez,liam.rodriguez174@email.com,Portland,18,Bronze,9,2022-12-27
+175,Ethan,Smith,ethan.smith175@email.com,Dallas,21,Bronze,15,2023-09-07
+176,Harper,Smith,harper.smith176@email.com,Minneapolis,64,Bronze,40,2024-01-01
+177,Evelyn,Johnson,evelyn.johnson177@email.com,Philadelphia,71,Bronze,7,2022-02-18
+178,Emma,Smith,emma.smith178@email.com,Seattle,73,Silver,45,2021-03-15
+179,Ethan,Jones,ethan.jones179@email.com,Chicago,52,Bronze,43,2024-02-16
+180,James,Williams,james.williams180@email.com,Portland,42,Bronze,9,2023-09-04
+181,Liam,Williams,liam.williams181@email.com,Chicago,32,Bronze,27,2022-08-15
+182,Evelyn,Garcia,evelyn.garcia182@email.com,San Jose,28,Silver,47,2021-03-16
+183,Ethan,Miller,ethan.miller183@email.com,Miami,61,Bronze,47,2024-03-31
+184,Olivia,Miller,olivia.miller184@email.com,Portland,50,Bronze,27,2022-08-17
+185,Henry,Miller,henry.miller185@email.com,Phoenix,56,Bronze,20,2020-07-15
+186,Mia,Brown,mia.brown186@email.com,Atlanta,43,Gold,48,2020-12-12
+187,Benjamin,Davis,benjamin.davis187@email.com,San Diego,67,Bronze,10,2020-03-24
+188,Alexander,Martinez,alexander.martinez188@email.com,San Jose,23,Silver,21,2021-03-03
+189,Emma,Jones,emma.jones189@email.com,New York,41,Gold,4,2023-05-30
+190,Harper,Jones,harper.jones190@email.com,Chicago,21,Silver,1,2022-07-05
+191,Mia,Garcia,mia.garcia191@email.com,New York,51,Bronze,20,2020-12-01
+192,Henry,Jones,henry.jones192@email.com,Boston,49,Silver,14,2024-05-19
+193,Lucas,Rodriguez,lucas.rodriguez193@email.com,Dallas,45,Silver,31,2020-04-11
+194,Emma,Rodriguez,emma.rodriguez194@email.com,San Diego,19,Silver,25,2021-07-12
+195,William,Smith,william.smith195@email.com,Austin,50,Bronze,20,2024-01-10
+196,Emma,Johnson,emma.johnson196@email.com,Miami,75,Bronze,10,2022-07-19
+197,Alexander,Davis,alexander.davis197@email.com,San Diego,64,Bronze,11,2023-03-02
+198,Emma,Johnson,emma.johnson198@email.com,Minneapolis,33,Bronze,23,2020-08-09
+199,Olivia,Williams,olivia.williams199@email.com,Chicago,70,Bronze,1,2022-05-24
+200,Sophia,Miller,sophia.miller200@email.com,Minneapolis,19,Bronze,39,2023-05-06
+201,Liam,Garcia,liam.garcia201@email.com,New York,29,Bronze,25,2021-10-06
+202,Olivia,Johnson,olivia.johnson202@email.com,Miami,58,Gold,17,2024-10-18
+203,Lucas,Johnson,lucas.johnson203@email.com,Chicago,47,Bronze,25,2021-07-10
+204,Henry,Garcia,henry.garcia204@email.com,Portland,54,Silver,32,2023-02-12
+205,Charlotte,Brown,charlotte.brown205@email.com,Chicago,28,Gold,50,2024-06-12
+206,Isabella,Smith,isabella.smith206@email.com,Portland,65,Silver,1,2021-09-22
+207,William,Rodriguez,william.rodriguez207@email.com,Chicago,33,Silver,42,2022-12-03
+208,Noah,Martinez,noah.martinez208@email.com,Los Angeles,25,Bronze,48,2024-09-25
+209,Isabella,Garcia,isabella.garcia209@email.com,Boston,49,Gold,25,2022-08-09
+210,Amelia,Miller,amelia.miller210@email.com,Chicago,55,Gold,8,2021-07-02
+211,Evelyn,Miller,evelyn.miller211@email.com,New York,24,Silver,36,2020-11-09
+212,Noah,Davis,noah.davis212@email.com,Boston,37,Bronze,30,2024-11-16
+213,Amelia,Smith,amelia.smith213@email.com,Phoenix,74,Bronze,13,2023-02-10
+214,Emma,Jones,emma.jones214@email.com,Seattle,32,Bronze,32,2024-11-24
+215,Ethan,Davis,ethan.davis215@email.com,Portland,60,Bronze,12,2024-02-01
+216,Ava,Smith,ava.smith216@email.com,Seattle,58,Silver,44,2021-01-08
+217,Henry,Jones,henry.jones217@email.com,Atlanta,54,Silver,50,2021-04-27
+218,James,Rodriguez,james.rodriguez218@email.com,Miami,29,Platinum,10,2023-06-22
+219,Alexander,Brown,alexander.brown219@email.com,San Antonio,58,Gold,44,2022-08-25
+220,Emma,Williams,emma.williams220@email.com,Dallas,19,Gold,39,2021-05-12
+221,Evelyn,Rodriguez,evelyn.rodriguez221@email.com,Denver,60,Silver,45,2023-05-26
+222,Harper,Jones,harper.jones222@email.com,Denver,36,Silver,17,2020-10-04
+223,Amelia,Brown,amelia.brown223@email.com,Minneapolis,32,Bronze,48,2022-03-15
+224,James,Williams,james.williams224@email.com,San Diego,56,Bronze,46,2023-02-06
+225,Benjamin,Davis,benjamin.davis225@email.com,Denver,28,Gold,9,2022-08-27
+226,Mason,Garcia,mason.garcia226@email.com,San Diego,71,Bronze,19,2020-01-07
+227,Charlotte,Williams,charlotte.williams227@email.com,Los Angeles,72,Bronze,27,2021-02-02
+228,Mason,Jones,mason.jones228@email.com,Los Angeles,25,Bronze,8,2020-07-07
+229,James,Miller,james.miller229@email.com,San Antonio,34,Gold,21,2020-12-28
+230,Benjamin,Brown,benjamin.brown230@email.com,Denver,28,Gold,33,2023-02-13
+231,Benjamin,Williams,benjamin.williams231@email.com,San Antonio,30,Bronze,2,2021-08-03
+232,Isabella,Jones,isabella.jones232@email.com,Seattle,41,Gold,7,2024-02-24
+233,William,Brown,william.brown233@email.com,Dallas,73,Bronze,9,2020-06-21
+234,Olivia,Johnson,olivia.johnson234@email.com,Portland,39,Bronze,36,2021-06-26
+235,William,Martinez,william.martinez235@email.com,Austin,48,Silver,10,2024-04-16
+236,Olivia,Rodriguez,olivia.rodriguez236@email.com,Minneapolis,63,Bronze,40,2024-04-22
+237,William,Miller,william.miller237@email.com,San Diego,50,Bronze,23,2020-06-01
+238,Ethan,Martinez,ethan.martinez238@email.com,Houston,25,Platinum,26,2021-07-13
+239,Lucas,Martinez,lucas.martinez239@email.com,Philadelphia,75,Bronze,24,2021-08-13
+240,Ethan,Martinez,ethan.martinez240@email.com,Atlanta,46,Bronze,28,2024-01-31
+241,Sophia,Garcia,sophia.garcia241@email.com,San Antonio,59,Platinum,39,2022-12-17
+242,Lucas,Garcia,lucas.garcia242@email.com,Houston,41,Bronze,0,2020-05-05
+243,Amelia,Garcia,amelia.garcia243@email.com,Houston,34,Bronze,41,2020-06-03
+244,Harper,Brown,harper.brown244@email.com,Dallas,48,Gold,11,2023-11-08
+245,Mason,Smith,mason.smith245@email.com,Austin,47,Gold,35,2020-12-17
+246,Isabella,Garcia,isabella.garcia246@email.com,San Antonio,22,Bronze,32,2020-07-06
+247,Ava,Jones,ava.jones247@email.com,Denver,37,Platinum,15,2024-03-01
+248,Lucas,Rodriguez,lucas.rodriguez248@email.com,Denver,28,Bronze,47,2020-04-07
+249,Olivia,Jones,olivia.jones249@email.com,Boston,18,Silver,47,2024-03-02
+250,Evelyn,Miller,evelyn.miller250@email.com,Houston,64,Bronze,38,2023-07-07
+251,Benjamin,Brown,benjamin.brown251@email.com,Portland,37,Silver,9,2024-06-24
+252,Olivia,Rodriguez,olivia.rodriguez252@email.com,Miami,56,Platinum,40,2020-03-16
+253,Charlotte,Garcia,charlotte.garcia253@email.com,New York,45,Bronze,49,2021-06-29
+254,Amelia,Johnson,amelia.johnson254@email.com,Seattle,55,Bronze,6,2020-12-03
+255,Mia,Smith,mia.smith255@email.com,Phoenix,64,Platinum,5,2022-04-30
+256,Liam,Smith,liam.smith256@email.com,Dallas,66,Bronze,30,2020-12-04
+257,Henry,Martinez,henry.martinez257@email.com,Minneapolis,44,Gold,32,2021-04-09
+258,Ava,Johnson,ava.johnson258@email.com,Philadelphia,21,Silver,5,2021-06-25
+259,Alexander,Rodriguez,alexander.rodriguez259@email.com,San Jose,27,Bronze,29,2023-06-20
+260,Charlotte,Miller,charlotte.miller260@email.com,Portland,50,Gold,10,2020-03-07
+261,Liam,Johnson,liam.johnson261@email.com,San Jose,23,Bronze,17,2020-10-06
+262,Isabella,Miller,isabella.miller262@email.com,New York,59,Silver,31,2020-12-13
+263,Mason,Rodriguez,mason.rodriguez263@email.com,Boston,22,Gold,22,2023-03-31
+264,James,Williams,james.williams264@email.com,Atlanta,63,Platinum,20,2024-02-24
+265,Alexander,Martinez,alexander.martinez265@email.com,Dallas,47,Platinum,42,2022-08-21
+266,Benjamin,Brown,benjamin.brown266@email.com,Miami,62,Gold,32,2020-12-15
+267,Evelyn,Brown,evelyn.brown267@email.com,New York,39,Bronze,30,2023-03-23
+268,Lucas,Martinez,lucas.martinez268@email.com,Minneapolis,72,Gold,24,2022-06-27
+269,Benjamin,Smith,benjamin.smith269@email.com,Miami,37,Gold,6,2020-03-23
+270,James,Martinez,james.martinez270@email.com,San Antonio,56,Bronze,43,2023-01-01
+271,Noah,Garcia,noah.garcia271@email.com,New York,67,Bronze,14,2023-03-12
+272,Liam,Brown,liam.brown272@email.com,Austin,69,Silver,1,2024-11-26
+273,Ava,Rodriguez,ava.rodriguez273@email.com,Seattle,67,Silver,26,2023-06-21
+274,Charlotte,Miller,charlotte.miller274@email.com,New York,72,Silver,13,2022-01-01
+275,William,Davis,william.davis275@email.com,Denver,19,Platinum,20,2024-09-27
+276,Olivia,Williams,olivia.williams276@email.com,Chicago,21,Bronze,18,2020-09-22
+277,Charlotte,Williams,charlotte.williams277@email.com,Phoenix,42,Bronze,41,2021-08-08
+278,Noah,Rodriguez,noah.rodriguez278@email.com,New York,74,Gold,17,2021-12-08
+279,Evelyn,Jones,evelyn.jones279@email.com,Los Angeles,50,Bronze,50,2023-05-27
+280,Mason,Garcia,mason.garcia280@email.com,Denver,41,Bronze,10,2024-06-28
+281,Isabella,Brown,isabella.brown281@email.com,Miami,67,Silver,46,2023-04-24
+282,Mia,Smith,mia.smith282@email.com,Portland,64,Gold,43,2022-01-12
+283,Mia,Davis,mia.davis283@email.com,San Diego,49,Gold,16,2023-02-21
+284,James,Williams,james.williams284@email.com,Austin,22,Bronze,21,2024-08-01
+285,Henry,Jones,henry.jones285@email.com,Boston,47,Gold,40,2020-04-15
+286,Olivia,Davis,olivia.davis286@email.com,Austin,67,Bronze,10,2024-10-10
+287,Lucas,Martinez,lucas.martinez287@email.com,Philadelphia,57,Bronze,43,2024-04-07
+288,Benjamin,Garcia,benjamin.garcia288@email.com,Philadelphia,31,Gold,25,2022-10-13
+289,Isabella,Martinez,isabella.martinez289@email.com,Los Angeles,27,Bronze,14,2023-09-23
+290,Harper,Garcia,harper.garcia290@email.com,Dallas,20,Silver,3,2023-02-21
+291,Isabella,Johnson,isabella.johnson291@email.com,Austin,54,Gold,8,2021-08-02
+292,Ava,Miller,ava.miller292@email.com,Austin,48,Gold,14,2024-09-10
+293,Henry,Garcia,henry.garcia293@email.com,Chicago,63,Platinum,43,2023-05-30
+294,Lucas,Miller,lucas.miller294@email.com,San Diego,39,Bronze,18,2022-05-04
+295,Olivia,Jones,olivia.jones295@email.com,Phoenix,64,Silver,10,2020-02-14
+296,Isabella,Smith,isabella.smith296@email.com,Atlanta,40,Bronze,25,2024-06-07
+297,Mason,Brown,mason.brown297@email.com,Dallas,74,Silver,4,2022-12-15
+298,Alexander,Davis,alexander.davis298@email.com,Atlanta,49,Bronze,9,2022-12-03
+299,Ethan,Miller,ethan.miller299@email.com,Seattle,56,Gold,12,2023-09-11
+300,Sophia,Rodriguez,sophia.rodriguez300@email.com,Los Angeles,36,Bronze,39,2020-05-15
+301,Lucas,Johnson,lucas.johnson301@email.com,Denver,21,Platinum,12,2024-08-23
+302,Mason,Smith,mason.smith302@email.com,Atlanta,70,Bronze,18,2020-06-26
+303,Harper,Jones,harper.jones303@email.com,San Diego,44,Silver,27,2020-04-21
+304,Ethan,Smith,ethan.smith304@email.com,San Antonio,23,Bronze,35,2023-01-11
+305,Liam,Williams,liam.williams305@email.com,Chicago,20,Silver,26,2022-09-21
+306,Benjamin,Davis,benjamin.davis306@email.com,Portland,68,Silver,15,2024-10-13
+307,Benjamin,Garcia,benjamin.garcia307@email.com,Portland,42,Bronze,22,2021-09-03
+308,Mia,Martinez,mia.martinez308@email.com,Los Angeles,31,Bronze,32,2020-08-14
+309,Alexander,Garcia,alexander.garcia309@email.com,Dallas,30,Bronze,47,2024-01-18
+310,Noah,Johnson,noah.johnson310@email.com,Los Angeles,26,Bronze,13,2023-03-21
+311,Mia,Garcia,mia.garcia311@email.com,San Antonio,33,Gold,34,2023-06-20
+312,Ava,Brown,ava.brown312@email.com,San Diego,30,Silver,5,2021-02-25
+313,James,Johnson,james.johnson313@email.com,San Jose,59,Silver,21,2024-03-09
+314,Emma,Davis,emma.davis314@email.com,New York,27,Bronze,1,2022-06-04
+315,Ava,Miller,ava.miller315@email.com,New York,42,Silver,45,2020-08-05
+316,Mia,Johnson,mia.johnson316@email.com,San Jose,37,Gold,30,2022-06-13
+317,Ethan,Johnson,ethan.johnson317@email.com,Boston,36,Silver,15,2024-02-13
+318,Isabella,Williams,isabella.williams318@email.com,Portland,62,Gold,37,2022-07-17
+319,Mason,Smith,mason.smith319@email.com,Philadelphia,55,Bronze,27,2023-03-06
+320,Mia,Davis,mia.davis320@email.com,Philadelphia,40,Bronze,2,2020-11-18
+321,Mason,Garcia,mason.garcia321@email.com,Atlanta,57,Bronze,29,2024-04-22
+322,Noah,Williams,noah.williams322@email.com,Seattle,52,Bronze,16,2022-12-22
+323,Henry,Martinez,henry.martinez323@email.com,Chicago,55,Silver,45,2023-04-22
+324,William,Martinez,william.martinez324@email.com,Seattle,23,Bronze,46,2021-11-14
+325,Alexander,Martinez,alexander.martinez325@email.com,Chicago,65,Gold,37,2021-07-19
+326,Mia,Miller,mia.miller326@email.com,San Jose,37,Silver,49,2021-10-20
+327,Ava,Brown,ava.brown327@email.com,New York,19,Bronze,23,2020-12-13
+328,William,Williams,william.williams328@email.com,Atlanta,42,Silver,23,2021-11-07
+329,Isabella,Davis,isabella.davis329@email.com,New York,68,Bronze,37,2022-08-20
+330,Lucas,Martinez,lucas.martinez330@email.com,Seattle,66,Bronze,43,2021-09-08
+331,Charlotte,Davis,charlotte.davis331@email.com,Los Angeles,65,Platinum,43,2024-03-23
+332,Mason,Miller,mason.miller332@email.com,Miami,27,Gold,21,2020-04-01
+333,Ava,Rodriguez,ava.rodriguez333@email.com,New York,21,Gold,19,2023-09-26
+334,Olivia,Davis,olivia.davis334@email.com,Miami,75,Gold,40,2022-10-11
+335,Mason,Jones,mason.jones335@email.com,Boston,20,Silver,6,2022-04-27
+336,Noah,Brown,noah.brown336@email.com,San Jose,18,Gold,37,2023-06-19
+337,Ava,Johnson,ava.johnson337@email.com,Denver,74,Bronze,30,2021-10-24
+338,Ethan,Davis,ethan.davis338@email.com,Seattle,36,Silver,45,2022-10-26
+339,Sophia,Williams,sophia.williams339@email.com,Minneapolis,66,Bronze,43,2022-10-25
+340,Mia,Johnson,mia.johnson340@email.com,Seattle,61,Bronze,25,2022-12-03
+341,Harper,Johnson,harper.johnson341@email.com,Seattle,40,Gold,7,2023-11-19
+342,Mia,Garcia,mia.garcia342@email.com,Boston,61,Silver,26,2022-04-29
+343,Henry,Martinez,henry.martinez343@email.com,San Jose,20,Silver,26,2024-03-08
+344,Mason,Miller,mason.miller344@email.com,Dallas,44,Silver,21,2023-03-10
+345,James,Garcia,james.garcia345@email.com,Houston,62,Silver,4,2021-03-24
+346,Sophia,Martinez,sophia.martinez346@email.com,Austin,44,Platinum,11,2020-09-26
+347,Isabella,Garcia,isabella.garcia347@email.com,Chicago,50,Bronze,25,2023-05-28
+348,Charlotte,Johnson,charlotte.johnson348@email.com,Phoenix,23,Platinum,41,2023-12-23
+349,Benjamin,Martinez,benjamin.martinez349@email.com,Portland,72,Gold,19,2023-02-16
+350,Charlotte,Martinez,charlotte.martinez350@email.com,Miami,53,Bronze,30,2023-03-15
+351,Harper,Martinez,harper.martinez351@email.com,Boston,65,Bronze,36,2022-05-20
+352,Mason,Smith,mason.smith352@email.com,Seattle,28,Silver,3,2021-06-16
+353,Sophia,Miller,sophia.miller353@email.com,Philadelphia,29,Gold,36,2024-02-07
+354,Olivia,Miller,olivia.miller354@email.com,Dallas,26,Bronze,7,2020-10-01
+355,Lucas,Jones,lucas.jones355@email.com,Denver,55,Platinum,49,2020-01-21
+356,Noah,Davis,noah.davis356@email.com,Denver,31,Platinum,48,2023-05-25
+357,Olivia,Martinez,olivia.martinez357@email.com,Atlanta,73,Silver,29,2023-10-29
+358,Emma,Rodriguez,emma.rodriguez358@email.com,Seattle,60,Bronze,24,2020-01-10
+359,Benjamin,Williams,benjamin.williams359@email.com,Philadelphia,30,Bronze,12,2021-12-14
+360,Benjamin,Davis,benjamin.davis360@email.com,San Antonio,59,Gold,31,2022-07-20
+361,James,Miller,james.miller361@email.com,San Jose,28,Gold,33,2021-09-25
+362,Olivia,Smith,olivia.smith362@email.com,San Jose,74,Bronze,45,2020-03-13
+363,Sophia,Williams,sophia.williams363@email.com,Miami,31,Bronze,48,2020-09-18
+364,William,Rodriguez,william.rodriguez364@email.com,Philadelphia,63,Silver,44,2022-02-19
+365,Sophia,Garcia,sophia.garcia365@email.com,Phoenix,61,Gold,50,2021-11-30
+366,Benjamin,Johnson,benjamin.johnson366@email.com,Houston,53,Silver,48,2020-11-05
+367,Emma,Brown,emma.brown367@email.com,Minneapolis,18,Silver,27,2024-10-21
+368,Evelyn,Garcia,evelyn.garcia368@email.com,Atlanta,60,Platinum,8,2023-09-16
+369,Olivia,Rodriguez,olivia.rodriguez369@email.com,Austin,30,Platinum,42,2024-11-26
+370,Olivia,Johnson,olivia.johnson370@email.com,Houston,59,Platinum,32,2024-04-09
+371,Olivia,Davis,olivia.davis371@email.com,Miami,68,Silver,13,2023-07-29
+372,Charlotte,Miller,charlotte.miller372@email.com,Denver,43,Bronze,41,2024-01-14
+373,Alexander,Jones,alexander.jones373@email.com,Miami,29,Silver,41,2021-05-19
+374,Ethan,Miller,ethan.miller374@email.com,Austin,55,Silver,21,2020-01-21
+375,Sophia,Brown,sophia.brown375@email.com,Miami,57,Bronze,11,2023-09-29
+376,Alexander,Jones,alexander.jones376@email.com,New York,71,Bronze,23,2021-03-23
+377,James,Brown,james.brown377@email.com,Houston,60,Bronze,45,2021-05-28
+378,Mia,Williams,mia.williams378@email.com,Portland,62,Bronze,28,2024-08-27
+379,Noah,Martinez,noah.martinez379@email.com,Austin,21,Gold,50,2024-02-07
+380,Mason,Smith,mason.smith380@email.com,Seattle,43,Silver,35,2020-05-06
+381,Amelia,Johnson,amelia.johnson381@email.com,Phoenix,62,Gold,25,2021-11-06
+382,Ava,Jones,ava.jones382@email.com,San Jose,68,Silver,4,2022-10-22
+383,James,Williams,james.williams383@email.com,Atlanta,33,Silver,10,2020-01-09
+384,Olivia,Garcia,olivia.garcia384@email.com,Houston,35,Silver,28,2022-10-14
+385,Benjamin,Jones,benjamin.jones385@email.com,Chicago,33,Bronze,5,2022-04-16
+386,James,Davis,james.davis386@email.com,Boston,71,Bronze,32,2020-12-07
+387,Ava,Miller,ava.miller387@email.com,Houston,71,Silver,20,2023-09-06
+388,Isabella,Martinez,isabella.martinez388@email.com,New York,74,Gold,8,2023-02-26
+389,William,Rodriguez,william.rodriguez389@email.com,Dallas,55,Gold,12,2023-10-06
+390,Isabella,Garcia,isabella.garcia390@email.com,Portland,48,Gold,26,2024-11-03
+391,Charlotte,Johnson,charlotte.johnson391@email.com,San Diego,52,Silver,27,2021-12-03
+392,Mia,Smith,mia.smith392@email.com,Los Angeles,63,Gold,5,2023-11-29
+393,James,Martinez,james.martinez393@email.com,Seattle,64,Silver,28,2022-11-21
+394,Sophia,Williams,sophia.williams394@email.com,San Antonio,54,Silver,47,2024-05-25
+395,James,Martinez,james.martinez395@email.com,San Antonio,42,Gold,7,2023-04-01
+396,William,Johnson,william.johnson396@email.com,Phoenix,58,Silver,26,2022-02-23
+397,Noah,Rodriguez,noah.rodriguez397@email.com,Austin,60,Bronze,2,2023-12-15
+398,Harper,Davis,harper.davis398@email.com,Minneapolis,20,Platinum,28,2020-10-05
+399,Emma,Williams,emma.williams399@email.com,New York,75,Gold,14,2023-07-22
+400,Sophia,Rodriguez,sophia.rodriguez400@email.com,Minneapolis,24,Platinum,10,2020-01-24
+401,Evelyn,Martinez,evelyn.martinez401@email.com,Boston,43,Gold,27,2021-03-26
+402,Amelia,Williams,amelia.williams402@email.com,New York,30,Silver,14,2021-08-27
+403,Isabella,Rodriguez,isabella.rodriguez403@email.com,San Diego,75,Bronze,26,2022-09-16
+404,Emma,Davis,emma.davis404@email.com,Houston,55,Silver,0,2021-12-12
+405,Charlotte,Garcia,charlotte.garcia405@email.com,Miami,69,Bronze,12,2023-04-21
+406,Benjamin,Davis,benjamin.davis406@email.com,Miami,20,Bronze,25,2024-08-03
+407,Amelia,Brown,amelia.brown407@email.com,San Diego,22,Bronze,46,2023-05-07
+408,Emma,Martinez,emma.martinez408@email.com,Austin,35,Platinum,35,2023-08-31
+409,Henry,Davis,henry.davis409@email.com,San Diego,63,Silver,48,2021-12-25
+410,Harper,Rodriguez,harper.rodriguez410@email.com,Boston,52,Bronze,10,2021-11-07
+411,Sophia,Johnson,sophia.johnson411@email.com,Phoenix,55,Gold,27,2024-09-14
+412,Benjamin,Williams,benjamin.williams412@email.com,Austin,35,Platinum,49,2022-11-07
+413,Liam,Smith,liam.smith413@email.com,Austin,51,Bronze,0,2024-10-05
+414,Olivia,Jones,olivia.jones414@email.com,Denver,25,Gold,38,2024-05-31
+415,Amelia,Smith,amelia.smith415@email.com,Los Angeles,19,Bronze,37,2023-10-07
+416,Liam,Smith,liam.smith416@email.com,Portland,31,Silver,20,2021-06-11
+417,Charlotte,Davis,charlotte.davis417@email.com,San Diego,58,Bronze,31,2021-08-02
+418,Mason,Miller,mason.miller418@email.com,San Diego,70,Silver,2,2023-02-09
+419,Alexander,Jones,alexander.jones419@email.com,Houston,31,Bronze,33,2021-10-13
+420,Evelyn,Miller,evelyn.miller420@email.com,Miami,22,Silver,9,2020-08-11
+421,Sophia,Smith,sophia.smith421@email.com,Seattle,36,Bronze,42,2023-01-14
+422,Isabella,Williams,isabella.williams422@email.com,Seattle,58,Bronze,5,2023-04-08
+423,Liam,Brown,liam.brown423@email.com,Seattle,56,Bronze,47,2020-01-30
+424,Evelyn,Jones,evelyn.jones424@email.com,Philadelphia,60,Silver,4,2024-08-18
+425,Ethan,Garcia,ethan.garcia425@email.com,Portland,57,Silver,37,2020-03-15
+426,Mason,Williams,mason.williams426@email.com,San Diego,53,Silver,28,2023-10-23
+427,Benjamin,Davis,benjamin.davis427@email.com,Denver,72,Silver,40,2022-03-04
+428,Ethan,Rodriguez,ethan.rodriguez428@email.com,Austin,75,Platinum,4,2021-02-17
+429,William,Smith,william.smith429@email.com,San Antonio,54,Silver,30,2023-01-31
+430,Sophia,Rodriguez,sophia.rodriguez430@email.com,Portland,36,Bronze,44,2023-08-29
+431,Sophia,Smith,sophia.smith431@email.com,Atlanta,24,Silver,26,2021-05-04
+432,Ethan,Martinez,ethan.martinez432@email.com,San Antonio,58,Silver,43,2024-08-04
+433,Amelia,Smith,amelia.smith433@email.com,Philadelphia,42,Gold,15,2022-11-10
+434,Ethan,Smith,ethan.smith434@email.com,Miami,25,Bronze,19,2023-02-19
+435,Olivia,Rodriguez,olivia.rodriguez435@email.com,Austin,25,Bronze,6,2020-06-08
+436,Lucas,Rodriguez,lucas.rodriguez436@email.com,Boston,21,Bronze,28,2022-04-11
+437,Amelia,Davis,amelia.davis437@email.com,Chicago,55,Bronze,45,2024-05-21
+438,Henry,Rodriguez,henry.rodriguez438@email.com,Phoenix,66,Bronze,14,2020-04-30
+439,Ava,Rodriguez,ava.rodriguez439@email.com,Portland,38,Gold,17,2020-03-09
+440,James,Rodriguez,james.rodriguez440@email.com,Philadelphia,33,Silver,0,2021-03-04
+441,Benjamin,Smith,benjamin.smith441@email.com,Denver,46,Silver,30,2020-08-14
+442,Alexander,Williams,alexander.williams442@email.com,Dallas,66,Silver,42,2020-12-24
+443,Charlotte,Garcia,charlotte.garcia443@email.com,Austin,66,Gold,4,2021-01-22
+444,Charlotte,Jones,charlotte.jones444@email.com,Boston,48,Platinum,44,2022-01-14
+445,Noah,Jones,noah.jones445@email.com,Austin,32,Silver,48,2020-12-29
+446,James,Davis,james.davis446@email.com,San Jose,69,Bronze,33,2022-12-25
+447,Ava,Garcia,ava.garcia447@email.com,Phoenix,64,Silver,38,2023-03-20
+448,Liam,Johnson,liam.johnson448@email.com,Atlanta,41,Platinum,48,2020-07-29
+449,Noah,Garcia,noah.garcia449@email.com,Boston,48,Gold,50,2021-04-20
+450,Henry,Garcia,henry.garcia450@email.com,Chicago,38,Silver,18,2024-02-16
+451,Benjamin,Davis,benjamin.davis451@email.com,Los Angeles,59,Bronze,42,2022-04-27
+452,Henry,Smith,henry.smith452@email.com,Minneapolis,30,Silver,13,2020-05-18
+453,Evelyn,Brown,evelyn.brown453@email.com,Dallas,45,Bronze,3,2020-12-29
+454,Lucas,Garcia,lucas.garcia454@email.com,Atlanta,45,Bronze,40,2021-09-04
+455,James,Miller,james.miller455@email.com,San Antonio,62,Bronze,13,2024-05-11
+456,Henry,Martinez,henry.martinez456@email.com,Phoenix,33,Bronze,23,2020-10-10
+457,Isabella,Garcia,isabella.garcia457@email.com,Portland,21,Bronze,20,2024-11-03
+458,Mia,Davis,mia.davis458@email.com,Atlanta,58,Bronze,12,2023-01-01
+459,Henry,Smith,henry.smith459@email.com,San Antonio,69,Bronze,17,2023-10-18
+460,Ava,Davis,ava.davis460@email.com,Chicago,42,Bronze,33,2024-03-10
+461,Charlotte,Williams,charlotte.williams461@email.com,Atlanta,58,Bronze,29,2024-02-15
+462,Isabella,Davis,isabella.davis462@email.com,Boston,64,Gold,13,2023-07-19
+463,Lucas,Smith,lucas.smith463@email.com,San Antonio,61,Silver,41,2021-07-25
+464,Lucas,Rodriguez,lucas.rodriguez464@email.com,Portland,66,Gold,11,2022-04-26
+465,Harper,Johnson,harper.johnson465@email.com,San Antonio,25,Gold,9,2021-01-01
+466,Evelyn,Jones,evelyn.jones466@email.com,Chicago,67,Gold,11,2023-12-08
+467,Mason,Williams,mason.williams467@email.com,Atlanta,66,Silver,48,2024-10-17
+468,Charlotte,Williams,charlotte.williams468@email.com,Seattle,33,Silver,16,2024-11-11
+469,Noah,Rodriguez,noah.rodriguez469@email.com,Seattle,35,Bronze,17,2020-05-11
+470,Henry,Martinez,henry.martinez470@email.com,Philadelphia,38,Silver,33,2024-12-23
+471,Mason,Johnson,mason.johnson471@email.com,Dallas,67,Bronze,14,2021-12-11
+472,Charlotte,Brown,charlotte.brown472@email.com,New York,30,Platinum,10,2022-10-31
+473,Ava,Miller,ava.miller473@email.com,Miami,30,Bronze,19,2024-11-18
+474,Alexander,Smith,alexander.smith474@email.com,San Jose,46,Silver,48,2023-01-24
+475,Charlotte,Garcia,charlotte.garcia475@email.com,Portland,24,Silver,50,2022-10-28
+476,Evelyn,Miller,evelyn.miller476@email.com,Phoenix,23,Bronze,49,2024-02-22
+477,James,Smith,james.smith477@email.com,Atlanta,44,Bronze,34,2022-04-15
+478,Henry,Garcia,henry.garcia478@email.com,Denver,36,Platinum,13,2021-09-02
+479,Amelia,Miller,amelia.miller479@email.com,Los Angeles,61,Silver,34,2020-12-24
+480,Sophia,Smith,sophia.smith480@email.com,Philadelphia,72,Bronze,28,2020-12-28
+481,Harper,Martinez,harper.martinez481@email.com,San Jose,43,Silver,42,2021-03-13
+482,Charlotte,Brown,charlotte.brown482@email.com,Chicago,43,Bronze,1,2024-10-10
+483,Henry,Jones,henry.jones483@email.com,Denver,20,Bronze,10,2024-03-04
+484,Charlotte,Williams,charlotte.williams484@email.com,Atlanta,67,Bronze,13,2023-12-06
+485,Charlotte,Jones,charlotte.jones485@email.com,Los Angeles,50,Gold,18,2024-05-22
+486,Lucas,Jones,lucas.jones486@email.com,Chicago,58,Bronze,15,2021-06-04
+487,Mason,Smith,mason.smith487@email.com,San Diego,24,Bronze,44,2020-07-19
+488,Charlotte,Miller,charlotte.miller488@email.com,San Diego,67,Bronze,11,2024-03-19
+489,Ava,Rodriguez,ava.rodriguez489@email.com,Dallas,41,Gold,19,2020-05-28
+490,William,Smith,william.smith490@email.com,Minneapolis,58,Bronze,39,2024-10-14
+491,Charlotte,Williams,charlotte.williams491@email.com,Philadelphia,75,Silver,4,2024-04-13
+492,Noah,Smith,noah.smith492@email.com,Atlanta,37,Silver,5,2020-03-15
+493,Charlotte,Miller,charlotte.miller493@email.com,Los Angeles,65,Silver,3,2021-01-09
+494,Charlotte,Smith,charlotte.smith494@email.com,San Jose,44,Silver,40,2020-07-31
+495,Amelia,Jones,amelia.jones495@email.com,Austin,30,Silver,40,2023-07-02
+496,Noah,Miller,noah.miller496@email.com,Phoenix,75,Bronze,4,2020-02-18
+497,Benjamin,Miller,benjamin.miller497@email.com,Miami,52,Silver,20,2022-08-21
+498,Mason,Williams,mason.williams498@email.com,Chicago,45,Bronze,11,2023-10-31
+499,Isabella,Williams,isabella.williams499@email.com,San Antonio,67,Silver,12,2021-12-10
+500,Isabella,Jones,isabella.jones500@email.com,New York,47,Bronze,4,2023-08-08
